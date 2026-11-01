@@ -1,0 +1,11 @@
+{
+  "version": "3.0",
+  "version_code": 21,
+  "apk": "apk/MyShopManager-v3.0.apk",
+  "url": "https://swapnashu.github.io/myshop/apk/MyShopManager-v3.0.apk",
+  "page": "https://swapnashu.github.io/myshop/",
+  "sha256": "3ad6cbb29363f0a41bedc1cda2ca4c93d136178dfb3a9e682acf25b4ed845a5a",
+  "size": "13.8 MB",
+  "notes": "Electrician team accounts & reports, inline wire-weight editing, in-app update prompts.",
+  "released": "2026-11-01"
+}
